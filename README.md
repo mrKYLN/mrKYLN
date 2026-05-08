@@ -1,6 +1,6 @@
 # Hi, I'm Mert 👋
 
-I'm a Data Scientist with 5+ years of experience, mostly in e-commerce and retail. I enjoy building ML models that actually go to production and make a measurable difference. Lately I've been focusing on LLMs, RAG systems, and agentic workflows — that's the direction I'm growing toward.
+I'm a Data Scientist with 5+ years of experience, mostly in e-commerce and retail. I enjoy building ML models that actually go to production and make a measurable difference. Lately I've been focusing on LLMs, RAG systems and agentic workflows — that's the direction I'm growing toward.
 
 ---
 
